@@ -22,10 +22,10 @@ static const char PnPDeviceInfo_ProcessorArchitecturePropertyName[] = "processor
 static const char PnPDeviceInfo_ProcessorArchitecturePropertyValue[] = PNP_ENCODE_STRING_FOR_JSON("32-bit");
 
 static const char PnPDeviceInfo_TotalStoragePropertyName[] = "totalStorage";
-static const char PnPDeviceInfo_TotalStoragePropertyValue[] = "532480";
+static const char PnPDeviceInfo_TotalStoragePropertyValue[] = "16384";
 
 static const char PnPDeviceInfo_TotalMemoryPropertyName[] = "totalMemory";
-static const char PnPDeviceInfo_TotalMemoryPropertyValue[] = "16777216";
+static const char PnPDeviceInfo_TotalMemoryPropertyValue[] = "520";
 
 static const char PnPDeviceInfo_LightLeftPropertyName[] = "LightLeft";
 static const char PnPDeviceInfo_LightLeftPropertyValue[] = "0";

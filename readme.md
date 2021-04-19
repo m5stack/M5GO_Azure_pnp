@@ -2,10 +2,12 @@
 
 This directory contains a sample that implements the model [dtmi:M5Stack:m5go;1](https://github.com/Azure/iot-plugandplay-models/blob/main/dtmi/m5stack/m5go-1.json).
 
+Implement network configuration information.Modify the RGB lamp by properties to send telemetry information to the cloud.
 
+# Prepare the Device
 
-Implement network configuration information.Modify the RGB lamp by properties to send telemetry information to the cloud
-
+PortA connects to ENV Unit, PortB is connects to ANGLE Unit, PortC connects to PIR Unit.
+![hardwareConnection](./docs/m5go.jpg)
 
 # Development Host Setup
 
